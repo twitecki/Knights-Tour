@@ -1,0 +1,36 @@
+Welcome To The Knights Tour!
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Normal Mode - 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The objective of this mode is to try to have the knight jump to every square on the board without jumping on 
+the same square twice.
+	-Start by clicking on any square to begin. The red circles represent the squares you have already been on. 
+	 The green square represents the last square you jumped to.
+	-Undo a move by pressing the 'u' key on the keyboard or scrolling backwards with the mouse. 
+	-Redo a move by pressing the 'r' key on the keyboard or scrolling forwards with the mouse.
+	-A hint option is available once you make 32 moves. It will give you a hint as to what square you should 
+	 jump to next or if you are out of possible solutions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Adventure Mode -
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The objective of this mode is to make it through the 25 levels of the game.To complete a level, lay down flags 
+from the starting flag square to the end square with legal chess knight moves. Watch out for the other pieces. 
+Running into them will lose you a life. Run out of lives and you lose! If you die, you respawn on the last flag
+you placed. You need to press the spacebar before you can start to move again. Once you respawn, you are invincible 
+until you start moving again. Collect extra lives by placing a flag on a square with a heart on it. 
+	
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Controls - 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Arrow Keys - Move the knight around the board
+'d' - Drop a flag on a square you are over top of 
+'s' - Snag a flag from a square you are over top of
+'spacebar' - Start moving at the start of a new level, or after you respawn
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Good Luck!
